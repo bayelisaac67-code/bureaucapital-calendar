@@ -1,0 +1,32 @@
+export const ADS = [
+  {
+    id: 'stapler',
+    emoji: '📎',
+    brand: 'StaplerMax™ Pro 3000',
+    tagline: 'Now with 15% more vertical orientation.',
+    body: 'Tired of documents that feel free? Bind them. The StaplerMax™ Pro 3000 delivers up to 4 staples per staple. Diagonal mode sold separately (supervisor approval required).',
+    disclaimer: 'StaplerMax is not responsible for feelings of attachment. Staples non-refundable. Consult your office manager before commitment.',
+    duration: 8,
+    theme: 'ad-theme-red',
+  },
+  {
+    id: 'bureaubucks',
+    emoji: '💰',
+    brand: 'BureauBucks™ Premium',
+    tagline: 'Earn a guaranteed 0.0% interest. Forever.',
+    body: 'Why let your fake money sit there doing nothing, when it could sit there doing nothing — PREMIUM? Upgrade today and receive a commemorative certificate about upgrading.',
+    disclaimer: 'BureauBucks™ have no cash value, sentimental value, or values in general. Past performance guarantees future performance (none).',
+    duration: 9,
+    theme: 'ad-theme-gold',
+  },
+  {
+    id: 'formbgone',
+    emoji: '📋',
+    brand: 'Form-B-Gone®',
+    tagline: 'The form that fills out forms. (Requires 3 forms to activate.)',
+    body: 'Introducing the revolutionary paperwork solution: to eliminate a form, simply complete Forms FB-1 through FB-3 and wait 6–8 business eternities. It\'s that simple!',
+    disclaimer: 'Form-B-Gone® may cause additional forms. Do not use Form-B-Gone® on Form-B-Gone® registration forms. Side effects include filing.',
+    duration: 10,
+    theme: 'ad-theme-blue',
+  },
+];
